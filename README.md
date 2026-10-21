@@ -1,2 +1,2 @@
 # DeadTown
-Round-based survival FPS videogame
+Round-based survival FPS videogame with zombies.
