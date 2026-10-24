@@ -1,5 +1,5 @@
 # DeadTown
-Round-based survival FPS videogame with zombies.
+Round-based survival FPS videogame with zombies made with Unity and C#.
 
 **Main Menu**
 <img width="1780" height="999" alt="image" src="https://github.com/user-attachments/assets/8416f572-6885-4b1b-8282-230ab6c3313f" />
